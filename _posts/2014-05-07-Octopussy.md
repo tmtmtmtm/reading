@@ -9,7 +9,7 @@ format: ebook
 goodreads_id: 15924415
 shelves: fiction, short-stories
 finished: 2014-05-07
-rating: 7
+rating: 3.5
 ---
 
 

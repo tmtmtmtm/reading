@@ -7,7 +7,7 @@ format: ebook
 goodreads_id: 18053732
 shelves: "non-fiction, braaains"
 finished: 2014-05-08
-rating: 7
+rating: 3.5
 ---
 
 ## Excerpts
