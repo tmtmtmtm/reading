@@ -8,7 +8,9 @@ goodreads_id: 20786258
 shelves: reading-and-writing
 finished: 2014-05-04
 rating: 3
+reviewed: true
 ---
 ## Review:
-
+<div class="review">
 Lots of good ideas, but a little too rapid-fire, with not enough depth. Much of the book went through the "tweet → blog post → book chapter" cycle, but it could do with another pass to flesh the ideas out more, particularly towards the end when the average chapter length drops to under 300 words!
+</div>

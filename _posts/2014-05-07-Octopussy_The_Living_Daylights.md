@@ -1,15 +1,12 @@
 ---
 layout: post
-title: "Octopussy & The Living Daylights"
+title: "Octopussy & The Living Daylights: James Bond 007"
 author: Ian Fleming
-series: 007
-series_no: 14
 pages: 144
-format: ebook
+format: Paperback
 goodreads_id: 15924415
 shelves: fiction, short-stories
 finished: 2014-05-07
-rating: 3.5
+rating: 4
+reviewed: false
 ---
-
-

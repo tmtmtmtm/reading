@@ -8,4 +8,5 @@ goodreads_id: 58376
 shelves: fiction
 finished: 2014-05-03
 rating: 2
+reviewed: false
 ---

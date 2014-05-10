@@ -8,4 +8,5 @@ goodreads_id: 17558603
 shelves: biopic, short-stories
 finished: 2014-05-06
 rating: 3
+reviewed: false
 ---

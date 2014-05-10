@@ -8,4 +8,5 @@ goodreads_id: 4453967
 shelves: caper, edgar-winner, scribd
 finished: 2014-05-01
 rating: 3
+reviewed: false
 ---

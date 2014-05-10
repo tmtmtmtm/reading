@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Gone for Good"
+title: "Tell No One"
 author: Harlan Coben
-pages: 432
+pages: 370
 format: Paperback
-goodreads_id: 43930
+goodreads_id: 43933
 shelves: crime
-finished: 2014-05-05
-rating: 3
+finished: 2014-04-19
+rating: 5
 reviewed: false
 ---

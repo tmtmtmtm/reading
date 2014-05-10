@@ -10,7 +10,8 @@ title: Frontispiece
     {% for post in site.posts %}
       <li>
       {{post.date | date_to_string}}: <a href="{{ post.url }}">{{ post.title | split: ':' | first }}</a> <img align="right" src="/images/cs/{{post.goodreads_id}}.jpg" /> 
-      <br clear="all" />
+      {% if post.reviewed %} (*) {% endif %}
+      <br clear="all" /> <br />
       </li>
     {% endfor %}
   </ul>

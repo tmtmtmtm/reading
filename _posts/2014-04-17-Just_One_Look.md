@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Gone for Good"
+title: "Just One Look"
 author: Harlan Coben
-pages: 432
+pages: 528
 format: Paperback
-goodreads_id: 43930
+goodreads_id: 85418
 shelves: crime
-finished: 2014-05-05
-rating: 3
+finished: 2014-04-17
+rating: 4
 reviewed: false
 ---
