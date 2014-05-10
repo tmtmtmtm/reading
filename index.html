@@ -7,7 +7,7 @@ title: Frontispiece
     <h1>Recently Read</h1>
 
   <ul>
-    {% for post in site.posts %}
+    {% for post in site.posts limit: 20 %}
       <li>
       {{post.date | date_to_string}}: <a href="{{ post.url }}">{{ post.title | split: ':' | first }}</a> <img align="right" src="/images/cs/{{post.goodreads_id}}.jpg" /> 
       {% if post.reviewed %} <sup>*</sup> {% endif %}
