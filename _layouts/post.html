@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<p class="meta">{{ page.date | date_to_string }}</p>
+
+<div class="post">
+		<h1>{{ page.title }}</h1>
+    <img src="/images/cl/{{page.goodreads_id}}.jpg" width="200" align="right" />
+		<h4>By {{ page.author }}</h4>
+    <p>
+      <em>Pages</em>: {{page.pages}}<br />
+      <em>Finished Reading</em>: {{page.finished}}<br />
+      <em>Rating</em>: {{page.rating}} / 10<br />
+      <em>Shelves</em>: {{page.shelves}}<br />
+    </p>
+		{{ content }}
+    <br clear="all" />
+</div>
