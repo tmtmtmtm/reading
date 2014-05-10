@@ -333,6 +333,9 @@ footer a:hover {
   height: 0;
 }
 
+.left { float:left }
+.right { float:right }
+
 .clearfix {display: inline-block;}
 * html .clearfix {height: 1%;}
 .clearfix {display: block;}
