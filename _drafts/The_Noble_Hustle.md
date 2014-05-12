@@ -57,3 +57,65 @@ reviewed:
 > good news. Our national animal is the hope camel. We have no national bird.
 > All the birds are dead.”
 
+> “The Alabama in her voice was strong. She’d made no effort to shed her
+> Southern accent during her time in the city. I respected that, as I’d
+> worked hard over the years to flatten my Anhedonian accent, which one
+> linguist memorably described as ‘like a flock of geese getting beaten by
+> tire irons.’”
+
+> “Coach gave me Harrington homework, and I made slow but incremental progress
+> through his strategies for satellites, internet tourneys, and brick-and-mortar
+> showdowns. His words yielded new interpretations over time, like a really
+> neat poem or a divorce settlement… Harrington hipped innocents like me to the 
+> late-stage tourney mind-set and late-hand strategies, giving names to that 
+> which I understood only on a subconscious level.”
+
+> “Pick your fights like you pick your nose: with complete awareness of where
+> you are.”
+
+> “I’d long aspired to the laid-back lifestyle of exhibits at Madame Tussaud’s.
+> There are cool perks. You don’t have to move around that much or waste
+> energy on fake smiles, and every now and then someone shows up to give you
+> a good dusting.”
+
+> “Poker was the perfect game for me, as I didn’t have to speak. It was like
+> Disneyland for hermits. I had found the place where I could go out among
+> the humans, elbow to elbow for hours, and not say a fucking word. It brought
+> me back to the old days, when I first started to write, and I’d spend whole
+> days shut up in my apartment and the only thing I’d say to another living
+> being was ‘… and a pack of Winston Lights.’”
+
+> “The world is a disease you shake off in the desert. To delude yourself
+> that you are a human being with thoughts and feelings, when your experience
+> is but the shadow of truly living—it moves me to tears. Although I should
+> note that in Anhedonian, the word tears means “to shrug in a distinctive
+> ‘well, what are you gonna do?’ fashion,” and has nothing to do with lachrymal
+> fluids produced by glands in the eye.”
+
+> “We live in an age in which sitcoms outnumber miracles, and perhaps that
+> is what we deserve. ”
+
+> “Exploitive play asked, How can I take advantage of this situation? The
+> optimum play of Math Players inquires, What is the correct play for this
+> situation? Super-aggressive chest-thumping before the flop, like sociopathic
+> raising and re-raising when all you have is 9-3 offsuit, will fatten your
+> stack as long as you can scare people off. But eventually exploitative
+> players will have to duel through the Flop, the Turn, and the River, and
+> they’ll need a deeper tool kit. The Math Players insist that over time,
+> sticking to a solid core strategy will maximize profits.”
+
+> “Stu Ungar once said to me, “Sexton, always remember this: All two aces
+> are good for is to win a small pot or lose a big one.”
+
+> “You can sort players into dependable categories. Tight is conservative.
+> Loose plays a lot of hands. Loose-Aggressive plays a lot of hands, plays
+> a lot of shit, but will bully you with betting. At the first table, I
+> played something that might be called Tight-Incompetent.”
+
+> “I’d seen someone on Coach’s poker feed say that hubris is the short stack
+> ordering a massage.”
+
+
+
+
+
