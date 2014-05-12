@@ -92,6 +92,26 @@ reviewed:
 > movements of his fellow-citizens: neither does he acquire that right when
 > he acquires a powerful motor-car.” (p131)
 
+> The Englishman never enjoys himself except for a noble purpose. He does
+> not play cricket because it is a good game, but because it creates good
+> citizens. He does not love motor-races for their own sake, but for the 
+> advantages they bring to the engineering firms of his country. And it is
+> common knowledge that the devoted persons who conduct and regularly attend 
+> horse-races do not do so because they like it, but for the benefit of the 
+> breed of the English horse. (p198)
+
+> A cheque was admittedly not legal tender in the sense that it could not
+> lawfully be refused; but it was accepted by custom as a legitimate form
+> of payment. There were funds in his bank sufficient to meet the cow; the
+> Commissioners might not like the cow, but, the cow having been tendered,
+> they were estopped from charging him with failure to pay. (p203)
+
+> Later he admitted that there might have been present in his mind a
+> desire to make the Collector of Taxes ridiculous. But why not? There
+> was no law against deriding the income-tax. (p204)
+
+
+
 
 
 
