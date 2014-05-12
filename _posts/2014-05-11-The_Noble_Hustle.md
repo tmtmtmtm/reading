@@ -7,9 +7,9 @@ format: ebook
 goodreads_id: 25732148
 shelves: games-people-play
 started: 2014-05-11
-finished: 
-rating: 
-reviewed: 
+finished: 2014-05-11
+rating: 2
+reviewed: false
 ---
 ## Excerpts:
 
