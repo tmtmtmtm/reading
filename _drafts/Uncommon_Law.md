@@ -7,7 +7,7 @@ format: Paperback
 goodreads_id: 1976512
 shelves: law, short-stories
 started: 2014-05-05
-current_position: 195
+current_position: 261
 finished: 
 rating: 
 reviewed: 
@@ -110,10 +110,53 @@ reviewed:
 > desire to make the Collector of Taxes ridiculous. But why not? There
 > was no law against deriding the income-tax. (p204)
 
+> His offence may be best described, perhaps, as lèse-municipalité: he has
+> entered the ocean at the time and in a manner convenient to himself, and 
+> in so doing he has wounded the dignity of a local authority persuaded 
+> erroneously that it has absolute power over the lives and conduct of all 
+> persons who venture within its jurisdiction.  (p217)
 
+> The local authority is the servant of the citizen, and such powers are
+> given to it in order to increase its capacity for service; but too many
+> authorities appear to regard themselves too Uttle as servants and too much
+> as masters. (p217)
 
+> Mr. Albert Haddock, a pertinacious litigant whom we
+> are always glad to see. (p231)
 
+> Now, the law or custom of the road is that when two vehicles meet each
+> shall keep to the left. But the law or custom of the sea is that when
+> two vessels meet they shall go to starboard and pass port to port,
+> that is to say, each shall keep to the right. It is the contention of
+> Mr. Haddock that when the tide covers the road that road becomes a
+> part of the tideway, that traffic upon it is thenceforth governed by
+> the regulations and customs of the sea. (p240)
 
+> The human mind is admittedly fallible, and in most professions the
+> possibility of occasional error is admitted and even guarded against.
+> But the legal profession is the only one in which the chances of error
+> are admitted to be so high that an elaborate machinery has been
+> provided for the correction of error—and not a single error, but a
+> succession of errors. In other trades to be wrong is regarded as a
+> matter for regret; in the law alone is it regarded as a matter of
+> course. (p256)
+
+> The institution of one Court of Appeal may be considered a reasonable
+> precaution; but two suggest panic. To take a fair parallel, our great
+> doctors, I think, would not claim to be more respected or more
+> advanced in their own science than our greatest jurists. But our
+> surprise would be great if, after the removal of our appendix by a
+> distinguished surgeon, we were taken before three other distinguished
+> surgeons, who ordered our appendix to be replaced; and our surprise
+> would give place to stupefaction if we were then referred to a
+> tribunal of seven distinguished surgeons, who directed that our
+> appendix should be extracted again. Yet such operations, or
+> successions of operations, are an everyday experience in the practice
+> of the law. (p257)
+
+> When a man keeps two clocks which tell the time differently, his fellows
+> will receivewith suspicion his weightiest pronouncements upon the hour of
+> the day, even if one of them happens to be right. (p259)
 
 
 
