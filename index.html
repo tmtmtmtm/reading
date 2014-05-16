@@ -10,7 +10,7 @@ title: Frontispiece
     {% for post in site.posts offset: 0 limit: 20 %}
       {% cycle 'open': '<tr>', '', '', '', '' %}
       <td>
-      <img align="right" src="/images/cl/{{post.goodreads_id}}.jpg" /> 
+      <a href="{{ post.url }}"><img align="right" src="/images/cl/{{post.goodreads_id}}.jpg" /></a>
       </td>
       {% cycle 'close': '', '', '', '', '</tr>' %}
     {% endfor %}
