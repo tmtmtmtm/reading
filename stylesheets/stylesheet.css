@@ -340,6 +340,12 @@ footer a:hover {
 * html .clearfix {height: 1%;}
 .clearfix {display: block;}
 
+.covergrid td {
+  padding: 5px;
+  vertical-align: top;
+  text-align: center;
+}
+
 /* #Media Queries
 ================================================== */
 
