@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+{% assign count = 0 %}
+<div class="post">
+	<ul>
+	  {% for post in site.posts %}
+      {% capture postmonth %}{{ post.date | date: '%Y-%m' }}{% endcapture %}
+      {% if postmonth == page.month %}
+          {% assign count=count | plus:1 %}
+          {% if count == 1 %}
+            <h3>{{ post.date | date: '%b %Y' }}</h3>
+            {% capture nextmon_url %}{{ post.next.date | date: '%Y/%m' }}{% endcapture %}
+            {% capture nextmon_txt %}{{ post.next.date | date: '%b %Y' }}{% endcapture %}
+          {% endif %}
+   
+        <li>
+        {{post.date | date_to_string}}: <a href="{{ post.url }}">{{ post.title | split: ':' | first }}</a>
+        <img align="right" src="/images/cs/{{post.goodreads_id}}.jpg" /> 
+        {% if post.reviewed %} <sup>*</sup> {% endif %}
+        <br clear="all" /> <br />
+        </li>
+
+        {% capture prevmon_url %}{{ post.previous.date | date: '%Y/%m' }}{% endcapture %}
+        {% capture prevmon_txt %}{{ post.previous.date | date: '%b %Y' }}{% endcapture %}
+
+      {% endif %}
+	  {% endfor %}
+	</ul>
+</div>
+
+  <div id="page-navigation"> 
+      <div class="clear">&nbsp;</div> 
+      <div class="left"> 
+      {% if prevmon_url != '' %}
+        <a href="/{{ prevmon_url }}.html">&laquo; {{ prevmon_txt }}</a>
+      {% endif %}
+      </div> 
+
+      <div class="right"> 
+      {% if nextmon_url != '' %}
+        <a href="/{{ nextmon_url }}.html">{{ nextmon_txt }} &raquo;</a>
+      {% endif %}
+      </div> 
+      <div class="clear">&nbsp;</div> 
+  </div>
+
