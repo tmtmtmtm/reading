@@ -4,7 +4,7 @@ title: "The Noble Hustle: Poker, Beef Jerky, and Death"
 author: Colson Whitehead
 pages: 256
 format: ebook
-goodreads_id: 25732148
+goodreads_id: 18310206
 shelves: games-people-play
 started: 2014-05-11
 finished: 2014-05-11
