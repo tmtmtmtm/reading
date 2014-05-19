@@ -3,9 +3,9 @@ layout: post
 title: "The Thefts of Nick Velvet: Stories"
 author: Edward D. Hoch
 pages: 216
-format: ebook
+format: scribd
 goodreads_id: 18778714
-shelves: caper, scribd, series, short-stories
+shelves: caper, series, short-stories
 finished: 2014-03-09
 rating: 3
 reviewed: true

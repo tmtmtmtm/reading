@@ -3,9 +3,9 @@ layout: post
 title: "The Busy Body"
 author: Donald E. Westlake
 pages: 176
-format: ebook
+format: scribd
 goodreads_id: 13567342
-shelves: caper, scribd
+shelves: caper
 finished: 2014-04-06
 rating: 4
 reviewed: true

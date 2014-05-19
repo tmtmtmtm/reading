@@ -3,9 +3,9 @@ layout: post
 title: "Ehrengraf for the Defense"
 author: Lawrence Block
 pages: 191
-format: ebook
+format: scribd
 goodreads_id: 15745277
-shelves: crime, scribd, series, short-stories
+shelves: crime, series, short-stories
 finished: 2014-03-06
 rating: 4
 reviewed: true

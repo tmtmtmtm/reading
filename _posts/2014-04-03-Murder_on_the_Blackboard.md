@@ -3,9 +3,9 @@ layout: post
 title: "Murder on the Blackboard"
 author: Stuart Palmer
 pages: 185
-format: ebook
+format: scribd
 goodreads_id: 17859523
-shelves: crime, scribd, series
+shelves: crime, series
 finished: 2014-04-03
 rating: 3
 reviewed: true
