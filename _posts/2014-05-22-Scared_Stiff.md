@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Scared Stiff
-author: 18051830
+author: Donald Westlake
 pages: 248
 format: scribd
 goodreads_id: 18051830
